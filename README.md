@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OscarS568
 - 👀 I’m interested in Electronics/FPGA
-- 🌱 I’m currently learning VHDL
-- 💞️ I’m looking to collaborate on anything VHDL related
+- 💞️ I’m looking to collaborate on anything Electronics related
 - 📫 How to reach me N/A
 
 <!---
